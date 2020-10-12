@@ -57,6 +57,8 @@
     "rollup": "^2.28.2"
   },
   "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
     "standard": "^14.3.1",
     "webshot-node": "^0.18.2"
   }
