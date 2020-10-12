@@ -1,0 +1,6 @@
+{
+  "tags": ["post-examples"],
+  "eleventyNavigation": {
+    "parent": "Post examples"
+  }
+}

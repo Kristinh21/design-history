@@ -1,7 +1,7 @@
 ---
 tags: false
 layout: collection
-title: Service 1
+title: Post examples
 description: A service for .....
 related:
   items:
@@ -13,10 +13,10 @@ related:
   - text: User needs
     href: /service-1
 pagination:
-  data: collections.service-1
+  data: collections.post-examples
   reverse: true
   size: 50
-permalink: "service-1/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "post-examples/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

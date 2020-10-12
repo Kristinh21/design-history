@@ -1,7 +1,7 @@
 ---
 tags: false
 layout: collection
-title: Service 1
+title: Service 2
 description: A service for .....
 related:
   items:
@@ -11,12 +11,12 @@ related:
       Password: `password`
     href: https://...
   - text: User needs
-    href: /service-1
+    href: /service-2
 pagination:
-  data: collections.service-1
+  data: collections.service-2
   reverse: true
   size: 50
-permalink: "service-1/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "service-2/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
