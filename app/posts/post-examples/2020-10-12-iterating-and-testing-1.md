@@ -1,5 +1,5 @@
 ---
-title: Iterating and testing (example)
+title: Iterating and testing - option 1 (example)
 description: Iterating based on UR insights
 date: 2020-10-06
 ---
