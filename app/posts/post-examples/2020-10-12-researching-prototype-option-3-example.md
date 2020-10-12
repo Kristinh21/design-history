@@ -5,8 +5,12 @@ description: Research and findings into [research topic]
 date: 2020-10-05
 related:
   items:
-  - text: Prototype
-    href: https://...
+  - text: Example post from BAT
+    href: https://bat-design-history.netlify.app/find-teacher-training/send-survey/
+  - text: Research playback
+    href: #
+  - text: Research notes
+    href: #
 ---
 
 A record of [this Google Doc](https://....).

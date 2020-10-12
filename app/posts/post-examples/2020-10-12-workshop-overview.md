@@ -1,27 +1,66 @@
 ---
 title: Workshop overview (example)
 description: Informing users about .......
-date: 2020-10-12
+date: 2020-10-09
 related:
   items:
-  - text: Prototype
-    href: https://...
+  - text: Workshop agenda and group notes
+    href: #
+  - text: Mural board
+    href: #
 ---
 
 
-Summary of the story or user flow. Requirements, important information, user needs...
+Members of the ..... team participated in a workshop to collect ideas for ..... page improvements that address the needs of users.
 
-* **Topic** Explaining the topic
-* **Step 1** Overview
-* **Step 2** Overview
-* **Step 3** Overview
+## Who attended?
+* Designer
+* Content designer
+* User researcher
+* Product owner
+* Delivery manager
+* Business analyst
+* Front end developer
+
+## User needs
+
+### Collecting and displaying data
+**As a user who**
+I need
+So that.
+
+**As a user who**
+I need
+So that.
+
+**As a user who**
+I need
+So that.
+
+> Solution/comment for above user needs
 
 
-## Screenshots
+### Improving content
+**As a user who**
+I need
+So that.
 
-#### Screen 1
-<img src="/images/example-post/02-search-results.png" alt="Screen 1">
+> Are we making the user read to much?
 
-<div id="account-number-hint" class="govuk-hint">
-We need to inform users that they can only.... & give validation when...
- </div>
+**As a user who**
+I need
+So that.
+
+**As a user who**
+I need
+So that.
+
+> Add validation to...
+
+
+### Miscellaneous
+**As a user who**
+I need
+So that.
+
+> Add more info about ...
