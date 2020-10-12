@@ -1,7 +1,7 @@
 ---
 title: Iterating and testing (example)
-description: Informing users about .......
-date: 2020-10-12
+description: Iterating based on UR insights
+date: 2020-10-06
 ---
 
 Following ___ epic ......

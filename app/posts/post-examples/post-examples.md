@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Post examples
-description: A service for .....
+description: Example templates that design, content and user research can use
 related:
   items:
   - text: Prototype

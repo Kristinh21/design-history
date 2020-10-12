@@ -1,12 +1,15 @@
 ---
 title: Research the problem (example)
 
-description: An earlier write-up of the problem/epic
+description: An early write-up of the problem/epic
 date: 2020-10-01
 related:
   items:
   - text: Example post from BAT
     href: https://bat-design-history.netlify.app/publish-teacher-training-courses/the-location-problem
+  - text: Link to Jira epic
+    href: #
+
 ---
 
 We know that ..... A user might:

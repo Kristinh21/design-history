@@ -1,7 +1,7 @@
 ---
 title: Design options after epic/topic overview (example)
 
-description: Research with users about [research topic]
+description: Design to catch up with UR and look at possible solutions 
 date: 2020-10-02
 related:
   items:
