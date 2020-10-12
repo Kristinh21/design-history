@@ -5,8 +5,8 @@ description: An earlier write-up of the problem/epic
 date: 2020-10-01
 related:
   items:
-  - text: Prototype
-    href: https://...
+  - text: Example post from BAT
+    href: https://bat-design-history.netlify.app/publish-teacher-training-courses/the-location-problem
 ---
 
 We know that ..... A user might:
