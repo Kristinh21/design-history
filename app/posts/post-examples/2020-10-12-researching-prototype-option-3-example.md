@@ -1,7 +1,7 @@
 ---
-title: Research findings (example)
+title: Researching prototype - option 3 (example)
 
-description: Research with users about [research topic]
+description: Research and findings into [research topic]
 date: 2020-10-05
 related:
   items:
@@ -9,7 +9,7 @@ related:
     href: https://...
 ---
 
-c
+A record of [this Google Doc](https://....).
 
 We received feedback from ....
 

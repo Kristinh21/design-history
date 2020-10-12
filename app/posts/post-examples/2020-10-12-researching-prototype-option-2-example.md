@@ -1,7 +1,7 @@
 ---
-title: Research screenshot update (example)
+title: Researching prototype - option 2 (example)
 description: Research and findings into [research topic]
-date: 2020-10-05
+date: 2020-10-04
 related:
   items:
   - text: Prototype
@@ -25,7 +25,7 @@ We tested removing _____ from _____. Instead we opted for
 <div id="account-number-hint" class="govuk-hint">
 Out of 5 only 2 ........
  </div>
- 
+
 <hr class="govuk-section-break govuk-section-break--m govuk-section-break--visible">
 
 #### Screen 1
