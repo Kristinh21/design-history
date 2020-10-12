@@ -1,5 +1,5 @@
 ---
-title: Research update (example)
+title: Research update epic (example)
 
 description: Research and findings into [research topic]
 date: 2020-10-05
