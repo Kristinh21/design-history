@@ -9,7 +9,7 @@ related:
     href: https://...
 ---
 
-A record of [this Google Doc](https://....).
+c
 
 We received feedback from ....
 
