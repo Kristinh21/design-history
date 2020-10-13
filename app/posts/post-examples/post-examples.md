@@ -5,13 +5,8 @@ title: Post examples
 description: Example templates that design, content and user research can use
 related:
   items:
-  - text: Prototype
-    description: |
-      Username: `username`
-      Password: `password`
-    href: https://...
-  - text: User needs
-    href: /service-1
+  - text: Examples posts from BAT
+    href: https://bat-design-history.netlify.app/
 pagination:
   data: collections.post-examples
   reverse: true
