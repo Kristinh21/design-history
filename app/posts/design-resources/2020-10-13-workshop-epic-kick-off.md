@@ -1,7 +1,7 @@
 ---
 title: Workshop epic kick off
 
-description: Epic kick off and breaking down and epic
+description: Epic kick off and breaking down an epic
 date: 2020-10-13
 related:
   items:
