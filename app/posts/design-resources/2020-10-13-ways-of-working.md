@@ -1,47 +1,26 @@
 ---
 title: Ways of working
 
-description: .....
+description: How design and user research work together to deliver
 date: 2020-10-13
-related:
-  items:
-  - text: Prototype
-    href: https://...
 ---
 
-A record of [this Google Doc](https://....).
+## What is a ways of working?
 
-We received feedback from ....
+Ways of working helps to empower people to work where, when and how they choose – with maximum flexibility and minimum constraints – to optimise their performance and to do their best work”.
 
-## What research have we done?
+It's important for the design team to create a process to help aid delivery within an agile team. This helps to create:
+* a greater awareness for design within the team
+* a clear process of how work should be delivered
+* an awareness of time frames for designing and testing
 
-The team sent a survey/set up 6 sessions.
+## Projects
 
-* List questions asked here
-* 2
-* 3
-* 4
+### Project 1
+Ways of working - [download here](https://....)
 
-## What did we find?
+### Project 2
+Ways of working - [download here](https://....)
 
-10 of the 11 providers.....
-
-A further 2, of....
-
-When asked....
-
-> user quotes
-
-
-## What does policy say?
-
-> Quotes, discussions
-
-## Conclusion
-
-There should be....
-
-## Screenshots
-
-#### Screen 1
-<img src="/images/example-post/02-search-results.png" alt="Screen 1">
+### Project 3
+Ways of working - [download here](https://....)
