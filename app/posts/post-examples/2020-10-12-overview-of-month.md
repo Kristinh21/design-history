@@ -1,6 +1,6 @@
 ---
 title: Overview of service in [month] (example)
-description: Informing users about .......
+description: Screenshots of how the service looks at the end every month 
 date: 2020-10-08
 ---
 

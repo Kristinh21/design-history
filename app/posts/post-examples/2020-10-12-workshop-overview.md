@@ -1,6 +1,6 @@
 ---
 title: Workshop overview (example)
-description: Informing users about .......
+description: Overview of workshop
 date: 2020-10-09
 related:
   items:

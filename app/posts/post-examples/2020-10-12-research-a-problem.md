@@ -40,7 +40,7 @@ We need to add .... to better understand the topic
 We aimed to understand the meaning of .....
 Research dicussion guide [this Google Doc](https://....).
 
-We've spike to .. users
+We've spoke to .. users
 * User 1 - [Write up](https://....).
 * User 2 - [Write up](https://....).
 * User 3 - [Write up](https://....).

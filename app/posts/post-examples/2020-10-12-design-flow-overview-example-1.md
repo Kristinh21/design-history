@@ -1,6 +1,6 @@
 ---
 title: Design flow overview - option 1 (example)
-description: Informing users about .......
+description: Overview of designs ready for devs 
 date: 2020-10-07
 related:
   items:
