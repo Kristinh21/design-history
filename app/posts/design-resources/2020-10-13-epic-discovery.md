@@ -1,7 +1,7 @@
 ---
 title: Epic discovery
 
-description: User research working with product to discover and epic
+description: User research working with product to discover an epic
 date: 2020-10-13
 related:
   items:
