@@ -1,5 +1,5 @@
 ---
-tags: false
+tags: design
 layout: collection
 title: Design Resources
 description: Resources to help aid the design process

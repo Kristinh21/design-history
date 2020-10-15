@@ -1,6 +1,6 @@
 ---
 title: Journey of an epic
-
+tags: design
 description: The process of an epic from start to finish
 date: 2020-10-13
 related:

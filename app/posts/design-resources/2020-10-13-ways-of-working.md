@@ -1,6 +1,6 @@
 ---
 title: Ways of working
-
+tags: design
 description: How design and user research work together to deliver
 date: 2020-10-13
 ---
