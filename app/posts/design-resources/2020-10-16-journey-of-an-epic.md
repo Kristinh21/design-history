@@ -197,3 +197,5 @@ Important!
 Design will:
 * refine stories with the dev team
 * run through design PDF’s
+
+<img src="/images/design-resources/journey-of-an-epic/stage6-and-7.jpg" alt="Screen 1">
