@@ -72,14 +72,60 @@
               {{ sections.title or app.sections.title or "Sections" }}
             </h2>
           </div>
-          {% for item in collections.all | eleventyNavigation("home") %}
-            <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
-              <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-                <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
-              </h3>
-              <p class="govuk-body">{{ item.excerpt }}</p>
-            </section>
+
+      {# Set variables for tab content #}
+      {% set designContent %}
+          <h2 class="govuk-heading-m">Design</h2>
+          <div class="govuk-grid-row">
+            {% for item in collections.design %}
+                <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
+                  <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+                    <a href="{{ item.url | url | pretty }}">{{ item.data.title }}</a>
+                  </h3>
+                  <p class="govuk-body">{{ item.data.description }}</p>
+                </section>
+            {% endfor %}
+          </div>
+      {% endset -%}
+
+      {% set devContent %}
+        <h2 class="govuk-heading-m">Technology</h2>
+        <div class="govuk-grid-row">
+          {% for item in collections.development %}
+              <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
+                <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+                  <a href="{{ item.url | url | pretty }}">{{ item.data.title }}</a>
+                </h3>
+                <p class="govuk-body">{{ item.data.description }}</p>
+              </section>
           {% endfor %}
+        </div>
+      {% endset -%}
+
+      <div class="govuk-tabs" data-module="govuk-tabs">
+        <h2 class="govuk-tabs__title">
+          Contents
+        </h2>
+        <ul class="govuk-tabs__list">
+          <li class="govuk-tabs__list-item govuk-tabs__list-item--selected">
+            <a class="govuk-tabs__tab" href="#design">
+            Design
+            </a>
+          </li>
+          <li class="govuk-tabs__list-item govuk-tabs__list-item--selected">
+            <a class="govuk-tabs__tab" href="#tech">
+            Technology
+            </a>
+          </li>
+        </ul>
+        <div class="govuk-tabs__panel" id="design">
+              {{ designContent | safe }}
+        </div>
+        <div class="govuk-tabs__panel" id="tech"> 
+            {{ devContent | safe }} 
+        </div>
+      </div> 
+        
         {% endif %}
       </div>
     {% endblock %}

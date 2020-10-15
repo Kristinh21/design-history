@@ -1,6 +1,6 @@
 ---
 title: Sketch file
-
+tags: design
 description: Collection of Sketch files across projects
 date: 2020-10-13
 related:

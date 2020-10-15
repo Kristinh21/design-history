@@ -38,14 +38,21 @@
 
 {% block footer %}
   <div class="govuk-!-display-none-print">
+ 
+
     {{ govukFooter({
       meta: {
         items: [{
           text: "Sitemap",
           href: "/sitemap"
+        },
+        {
+          text: "Design History GitHub Repo",
+          href: "https://github.com/Kristinh21/design-history"
         }]
       }
     }) }}
+    
   </div>
 {% endblock %}
 
