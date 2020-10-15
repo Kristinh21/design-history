@@ -163,7 +163,15 @@ Design will:
 
 If it's a drastic change we will test again.
 
-## Stage 6:  Ready for dev team
+## Stage 6: Tech design and analysis
+After the designs have been added to the cards and signed off my product, there will be a session to run tech and test through the cards.
+Tech and test will then:
+* work on the tech design
+* work on the test approaches
+for each card before moving to ready for Refinement.
+
+
+## Stage 7:  Ready for Refinement
 For each story that includes designs there will:
 * be one source of truth attached (pdf)
 * [front end doc? discuss with Martin]
