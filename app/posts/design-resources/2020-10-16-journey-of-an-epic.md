@@ -40,7 +40,7 @@ To gain more context they will:
 The epic is populated with context and findings.
 
 ### Early inclusion
-It's import to gain an early perspective from:
+It's important to gain an early perspective from:
 * SMEs
 * Product team
 * Tech (TA's)
