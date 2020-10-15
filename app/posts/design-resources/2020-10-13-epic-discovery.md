@@ -1,6 +1,6 @@
 ---
 title: Epic discovery
-tags: design
+
 description: User research working with product to discover an epic
 date: 2020-10-13
 related:
