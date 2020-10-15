@@ -25,7 +25,7 @@ To build the epic out they will:
 
 ### Map ‘AS-IS'
 To understand more they will:
-* research AS-IS
+* research the AS-IS process
 * map out AS-IS flows
 
 ### Evidence
@@ -37,13 +37,13 @@ To gain more context they will:
 
 ## Stage2: Define
 
-Epic is populated with context and findings.
+The epic is populated with context and findings.
 
 ### Early inclusion
-Its import to gain an early perspective from:
+It's import to gain an early perspective from:
 * SMEs
 * Product team
-* Tech
+* Tech (TA's)
 
 This assists in picking up on any blockers or work that needs to be done up front alongside creating a rough t-shirt size of the epic.
 
@@ -52,7 +52,7 @@ This assists in picking up on any blockers or work that needs to be done up fron
 Populate the epic with:
 * examples and scenarios
 * existing documentation
-* screen shots of AS-IS
+* screen shots of the AS-IS process
 
 ### Clear need
 Populate the epic with:
@@ -81,7 +81,7 @@ Product will introduce the epic to the team.
 
 
 ### Understanding the epic
-* what are we doing it?
+* why are we doing it?
 * what is the end user impact?
 * who are the stakeholders?
 * how will we measure success?
@@ -100,7 +100,7 @@ Product will introduce the epic to the team.
 
 
 
-## Stage 4: Design process
+## Stage 4: The Design process
 The design process depending on the size of the epic and testing availability of users can vary between 2-4 sprints.
 
 ### Research
@@ -124,14 +124,14 @@ Kick off session with the design team. The team will:
 * map/update the service flow
 
 After the design kickoff session, design and content will work together to:
-* mock up high fidelity users flows
+* mock up high fidelity user flows
 * mock up high fidelity screens
 * document the process on the design history site
 
 ### Design review
 After design has created/explored solutions they will set up a design review session to:
 * review design work with PO, BA & Tech
-* agree solution is aligned and within effort
+* agree on a solution that is aligned and within effort
 * BA will create shell stories
 * PO to sign off design work ready for prototyping
 
@@ -161,13 +161,14 @@ Design will:
 * update prototype
 * document process on the design history site
 
-If it's a drastic change we will test again.
+If it's a drastic change they will test again.
 
 ## Stage 6: Tech design and test analysis
 After the designs have been added to the cards and signed off by product, there will be a session to run tech and test through the cards.
 Tech and test will then:
 * work on the tech design
 * work on the test analysis
+
 for each card before moving them to ready for Refinement.
 
 
@@ -177,10 +178,10 @@ For each story that includes designs there will:
 * [front end doc? discuss with Martin]
 
 Important!
-* prototype will never be used for development guidance
+* the prototype will never be used for development guidance
 * design & content will also sign off dev work (visual designs)
 
-## Refinement
+### Refinement
 Design will:
 * refine stories with the dev team
-run through design PDF’s
+* run through design PDF’s
