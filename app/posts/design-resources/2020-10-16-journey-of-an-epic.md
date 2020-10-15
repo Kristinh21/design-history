@@ -16,7 +16,7 @@ An overview of the stages in which an epic is created, explored, designed and de
 Product and User Research working together to explore the epic.
 
 ### Identify & define
-To build the epic out we:
+To build the epic out the product team will:
 * carry out user research (will vary depending on epic)
 * document insights & painpoints
 * list user needs
@@ -24,12 +24,12 @@ To build the epic out we:
 * list legislation
 
 ### Map 'as is'
-To understand more we:
+To understand more the product team will:
 * research AS IS
 * map out AS IS flows
 
 ### Evidence
-To gain more context we:
+To gain more context the product team will:
 * list examples and scenarios
 * document existing documentation
 
@@ -151,7 +151,7 @@ During this session PO will:
 * agree on a forward approach
 * BA will update user stories
 
-### Update date designs based on UR
+### Update designs based on UR
 Design will:
 * update designs
 * update prototype
