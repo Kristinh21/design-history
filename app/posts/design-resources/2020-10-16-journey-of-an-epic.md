@@ -110,9 +110,9 @@ The design process depending on the size of the epic and testing availability of
 * document early findings on the design history site
 
 ### Design AS-IS / TO-BE workshop
-* Design will run a workshop with the Product team to map out high level TO-BE flows
+* Design will run a workshop with the Product and Tech team to map out high level TO-BE flows
 or
-* Design will create TO-BE flows and then have a session to review with the Product team.
+* Design will create TO-BE flows and then have a session to review with the Product and Tech team.
 
 ### Design kickoff
 Kick off session with the design team. The team will:
@@ -149,7 +149,12 @@ User research will take the prototype out for testing. After their testing sessi
 * organise a playback session to the team
 
 ### Play back session
-During this session PO will:
+During this session the User researcher will:
+* playback the findings from the user testing sessions
+* raise areas for concern
+* provide recommendations
+
+During this session the PO will:
 * understand what needs addressing
 * make a decision with the design team on what to update
 * agree on a forward approach
