@@ -67,6 +67,10 @@ Populate the epic with:
 * what MVP 2 is
 * what is not MVP
 
+<img src="/images/design-resources/journey-of-an-epic/stage1-and-2.jpg" alt="Screen 1">
+
+
+
 ## Stage 3: Epic kickoff with team
 
 Product will introduce the epic to the team
