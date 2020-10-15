@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
+title: "[Service name] design history"
 description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
 eleventyComputed:
   eleventyNavigation:
