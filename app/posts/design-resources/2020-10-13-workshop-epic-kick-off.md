@@ -12,13 +12,15 @@ related:
 This post includes an overview of an epic kick off.
 Credit to [Epic kick off cheat sheet](https://agilelogbook.com/2017/11/26/epic-kick-off-cheat-sheet/)
 
-## Why have an epic kickoff?
+Product will introduce the epic to the team.
+
+### Why have an epic kickoff?
 * It helps to get a shared understanding of what the team is about to embark on.
-* Use the groups knowledge to plan and create the next steps.
+* Uses the groups knowledge to plan and create the next steps.
 
 
 ### Understanding the epic
-* what are we doing it?
+* why are we doing it?
 * what is the end user impact?
 * who are the stakeholders?
 * how will we measure success?
@@ -35,12 +37,6 @@ Credit to [Epic kick off cheat sheet](https://agilelogbook.com/2017/11/26/epic-k
 * if so, are they aware of our plans and wont block us?
 * any other risks that should be taken into account?
 
-### What's next for design and UR ?
-User research and design will work together over a couple of sprints to:
-* learn more about the epic
-* explore design ideas
-* create hypothesis based on user needs
-* gain feedback from users
 
 Throughout this process user stories will be added and removed as necessary. Scope is flexible and based on customer feedback and team cadence.
 
