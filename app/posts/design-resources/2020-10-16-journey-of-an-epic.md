@@ -110,9 +110,10 @@ The design process depending on the size of the epic and testing availability of
 * document early findings on the design history site
 
 ### Design AS-IS / TO-BE workshop
-* Design will run a workshop with the Product and Tech team to map out high level TO-BE flows
+* Design will run a workshop with the Product, Tech and SME's to map out high level TO-BE flows
 or
-* Design will create TO-BE flows and then have a session to review with the Product and Tech team.
+* Design will create TO-BE flows and then have a session to review with Product, Tech and SME's.
+
 
 ### Design kickoff
 Kick off session with the design team. The team will:
@@ -123,14 +124,18 @@ Kick off session with the design team. The team will:
 * create hypothesis
 * map/update the service flow
 
+<img src="/images/design-resources/journey-of-an-epic/stage-3-and-4.jpg" alt="Screen 1">
+
 After the design kickoff session, design and content will work together to:
 * mock up high fidelity user flows
 * mock up high fidelity screens
 * document the process on the design history site
 
+
+
 ### Design review
 After design has created/explored solutions they will set up a design review session to:
-* review design work with PO, BA & Tech
+* review design work with PO, BA, Tech & SME's
 * agree on a solution that is aligned and within effort
 * BA will create shell stories
 * PO to sign off design work ready for prototyping
@@ -167,6 +172,8 @@ Design will:
 * document process on the design history site
 
 If it's a drastic change they will test again.
+
+<img src="/images/design-resources/journey-of-an-epic/stage4-and-5.jpg" alt="Screen 1">
 
 ## Stage 6: Tech design and test analysis
 After the designs have been added to the cards and signed off by product, there will be a session to run tech and test through the cards.
