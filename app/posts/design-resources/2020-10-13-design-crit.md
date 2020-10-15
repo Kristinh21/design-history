@@ -1,6 +1,6 @@
 ---
 title: Design critique
-tags: design
+
 description: Template for running design critiques
 date: 2020-10-13
 related:
