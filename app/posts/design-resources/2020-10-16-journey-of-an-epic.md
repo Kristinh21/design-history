@@ -176,7 +176,7 @@ If it's a drastic change they will test again.
 <img src="/images/design-resources/journey-of-an-epic/stage4-and-5.jpg" alt="Screen 1">
 
 ## Stage 6: Estimation session
-After the designs are ready for development there will be an estimation session. This session will include Tech leads, BA's and PO and the Design team. During this session they will break the Epic into smaller parts, estimate and prioritise stories.
+After the designs are ready for development there will be an estimation session. This session will include Tech leads, BA's, PO and the Design team. During this session they will break the Epic into smaller parts, estimate and prioritise stories.
 
 
 ## Stage 7: Tech design and test analysis
