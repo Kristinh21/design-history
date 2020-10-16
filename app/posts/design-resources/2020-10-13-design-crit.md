@@ -31,27 +31,27 @@ Use this statement to help:
 * explain the problem you are facing
 * why you are having this problem
 * the areas you are looking feedback on
-* what constraints/limitation your are facing
+* what constraints/limitations your are facing
 
 ### Step 4 - Designs
 This is spilt into two parts.
 **Part 1**
-* map out a user flow
+* map out the user flow
 * identify where your design sits within the flow
-* Draw attention to areas of interest
+* draw attention to areas of interest
 
 **Part 2**
 * add screen Designs
-* talk group through each one
-* focuses on your thinking behind each design
+* talk the group through each one
+* focus on your thinking behind each design
 
 ### Step 5 - Feedback
-Using the post-it note have the group provide feedback.
+Using the post-it notes have the group provide feedback.
 * set a time limit for feedback
 * have everyone provide silent feedback
 * green post-it for feedback
 * blue post-it for questions
-* at the end of the silent feedback session run through each post-it and allow discussions
+* at the end of the silent feedback session run through each post-it and allow for discussions
 
 
 ### Step 6 - Summarise
