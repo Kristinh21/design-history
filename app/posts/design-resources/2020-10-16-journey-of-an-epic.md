@@ -198,7 +198,7 @@ Important!
 * design & content will also sign off dev work (visual designs)
 
 ### Refinement
-Design will:
+Design team will:
 * refine stories with the dev team
 * run through design PDF’s
 
