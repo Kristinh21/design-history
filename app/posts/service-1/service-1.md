@@ -2,7 +2,7 @@
 tags: false
 layout: collection
 title: Service 1
-description: A service for .....
+description: A service for users to..
 related:
   items:
   - text: Prototype
