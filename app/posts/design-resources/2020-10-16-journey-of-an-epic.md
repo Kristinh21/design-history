@@ -110,9 +110,9 @@ The design process depending on the size of the epic and testing availability of
 * document early findings on the design history site
 
 ### Design AS-IS / TO-BE workshop
-* Design will run a workshop with the Product, Tech and SME's to map out high level TO-BE flows
+* Design/Content will run a workshop with the Product, Tech and SME's to map out high level TO-BE flows
 or
-* Design will create TO-BE flows and then have a session to review with Product, Tech and SME's.
+* Design/Content will create TO-BE flows and then have a session to review with Product, Tech and SME's.
 
 
 ### Design kickoff
@@ -134,14 +134,14 @@ After the design kickoff session, design and content will work together to:
 
 
 ### Design review
-After design has created/explored solutions they will set up a design review session to:
+After the design team has created/explored solutions they will set up a design review session to:
 * review design work with PO, BA, Tech & SME's
 * agree on a solution that is aligned and within effort
 * BA will create shell stories
 * PO to sign off design work ready for prototyping
 
 ### Creating the prototype
-Design will:
+Design/Content will:
 * create a new version of the prototype for testing
 * work with UR to create the best scenarios for testing
 * document the process on the design history site
@@ -166,7 +166,7 @@ During this session the PO will:
 * BA will update the user stories
 
 ### Update designs based on UR
-Design will:
+Design/Content will:
 * update designs
 * update prototype
 * document process on the design history site
@@ -175,8 +175,12 @@ If it's a drastic change they will test again.
 
 <img src="/images/design-resources/journey-of-an-epic/stage4-and-5.jpg" alt="Screen 1">
 
-## Stage 6: Tech design and test analysis
-After the designs have been added to the cards and signed off by product, there will be a session to run tech and test through the cards.
+## Stage 6: Estimation session
+After the designs are ready for development there will be an estimation session. This session will include Tech leads, BA's and PO and the Design team. During this session they will break the Epic into smaller parts, estimate and prioritise stories.
+
+
+## Stage 7: Tech design and test analysis
+After the designs have been added to the cards and signed off by product.
 Tech and test will then:
 * work on the tech design
 * work on the test analysis
@@ -184,7 +188,7 @@ Tech and test will then:
 for each card before moving them to ready for Refinement.
 
 
-## Stage 7:  Ready for Refinement
+## Stage 8:  Ready for Refinement
 For each story that includes designs there will:
 * be one source of truth attached (pdf)
 * [front end doc? discuss with Martin]
